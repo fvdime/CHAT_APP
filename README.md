@@ -1,3 +1,22 @@
+<REACT CHAT APP>
+
+## Description
+
+Chat application using React JS
+
+-  Backend is hosted by https://chatengine.io 
+- Components are made by https://www.npmjs.com/package/react-chat-engine
+
+## How it looks?
+
+
+## Credits
+
+I followed JavaScript Mastery's tutorial for this project please check out his channel! 
+  https://youtu.be/jcOKU9f86XE
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
