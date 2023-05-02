@@ -10,6 +10,10 @@ Chat application using React JS
 ## How it looks?
 
 
+![chatL](https://user-images.githubusercontent.com/73942727/235645548-fc73ae5f-6ae6-4868-aa0b-b7f5cf68f01a.png)
+![chatP](https://user-images.githubusercontent.com/73942727/235645568-2f93c48f-5839-4539-8673-0752ae5ba1a4.png)
+![Rchat](https://user-images.githubusercontent.com/73942727/235645655-4603c355-2fee-4a07-b8ab-1aa52b390a88.png)
+
 ## Credits
 
 I followed JavaScript Mastery's tutorial for this project please check out his channel! 
